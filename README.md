@@ -1,2 +1,2 @@
-# item-frame-duper
-Item Frame Dupe addon for servers that have Item Frame Dupe
+# Item frame duper
+An item frame dupe meteor addon for servers that have item frame dupe.

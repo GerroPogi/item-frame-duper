@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "itemframeduper",
+  "version": "1.0",
+  "name": "Item Frame Duper",
+  "description": "Item frame duper",
+  "authors": [
+    "Beronicous"
+  ],
+  "contact": {
+    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+  },
+  "icon": "assets/template/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "dev.beronicous.addon.Addon"
+    ]
+  },
+  "mixins": [
+    "addon.mixins.json"
+  ],
+  "custom": {
+    "meteor-client:color": "255,255,255"
+  },
+  "depends": {
+    "java": ">=21",
+    "minecraft": ["1.20.5","1.20.6"],
+    "meteor-client": "*"
+  }
+}

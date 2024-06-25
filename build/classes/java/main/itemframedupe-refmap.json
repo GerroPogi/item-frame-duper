@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "dev/beronicous/addon/mixin/Mixin": {
+      "<init>": "Lnet/minecraft/class_310;<init>(Lnet/minecraft/class_542;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "dev/beronicous/addon/mixin/Mixin": {
+        "<init>": "Lnet/minecraft/class_310;<init>(Lnet/minecraft/class_542;)V"
+      }
+    }
+  }
+}
